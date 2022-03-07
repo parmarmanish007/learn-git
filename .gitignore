@@ -1,3 +1,5 @@
 aa.log
 *.log
+/dir/
+dir/aa/bb.txt
 
