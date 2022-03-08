@@ -8,6 +8,4 @@ print(avg)
     
     
 #commit
-
-
-
+#commit
